@@ -1,0 +1,11 @@
+/* Alternating section shading on the landing page.
+   Add `design.css_class: section-alt` to every other block in content/_index.md.
+   Uses a translucent overlay rather than fixed hex colors so it tracks whatever
+   background the active theme pack sets, in both light and dark mode. */
+.section-alt .home-section-bg {
+  background-color: rgb(0 0 0 / 0.035);
+}
+
+html.dark .section-alt .home-section-bg {
+  background-color: rgb(255 255 255 / 0.04);
+}

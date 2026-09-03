@@ -28,6 +28,7 @@ sections:
     content:
       username: me-cv
     design:
+      css_class: section-alt
       is_education_first: false
       date_format: 'Jan 2006'
   - block: research-roles
@@ -50,6 +51,7 @@ sections:
       archive:
         enable: false
     design:
+      css_class: section-alt
       align: center
       columns: 1
       fallback_icon: code-bracket
