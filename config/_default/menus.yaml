@@ -1,0 +1,11 @@
+# Navigation Links
+#   To link to a homepage block, set the URL to a hash `#` followed by the
+#   block's `id` (e.g. `/#papers`). The weight parameter sets the ordering.
+
+main:
+  - name: Home
+    url: /
+    weight: 10
+  - name: Projects
+    url: /#projects
+    weight: 20

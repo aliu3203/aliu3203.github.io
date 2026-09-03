@@ -1,0 +1,72 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+
+name:
+  display: Andrew Liu
+  given: Andrew
+  family: Liu
+
+role: ''
+
+bio: ''
+
+# Uncomment and fill in whichever of these you want on the page.
+# Any section left out simply won't render.
+
+# postnominals:
+#   - PhD
+
+# status:
+#   icon: "☕️"
+
+# affiliations:
+#   - name: ''
+#     url: ''
+
+# links:
+#   - icon: at-symbol
+#     url: 'mailto:you@example.com'
+#     label: E-mail Me
+#   - icon: brands/github
+#     url: https://github.com/aliu3203
+#   - icon: brands/linkedin
+#     url: ''
+#   - icon: academicons/google-scholar
+#     url: ''
+#   - icon: academicons/orcid
+#     url: ''
+
+# interests:
+#   - ''
+
+# education:
+#   - degree: ''
+#     institution: ''
+#     start: 2020-09-01
+#     end: 2024-06-30
+#     summary: ''
+
+# experience:
+#   - role: ''
+#     org: ''
+#     start: 2024-07-01
+#     summary: ''
+
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - label: ''
+#         level: 5
+
+# languages:
+#   - name: English
+#     level: 5
+#     label: Native
+
+# awards:
+#   - title: ''
+#     awarder: ''
+#     date: "2025-01-01"
+#     summary: ''
+#     icon: hero/trophy
