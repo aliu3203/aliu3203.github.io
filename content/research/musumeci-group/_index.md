@@ -1,5 +1,5 @@
 ---
-title: 'Undergraduate Research Assistant'
+title: 'Beam and Accelerator Physics'
 org: 'Musumeci Group'
 start: 2026-03-01
 summary: ''
