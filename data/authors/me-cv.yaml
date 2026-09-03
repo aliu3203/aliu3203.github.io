@@ -1,0 +1,19 @@
+# CV timeline, rendered by the `resume-experience` block on the homepage.
+#
+# Education and experience live here rather than in me.yaml on purpose:
+# resume-biography-3 renders `education` automatically from whichever
+# profile it is given, so keeping it in me.yaml made UCLA appear twice.
+# Splitting it means the biography block shows identity only, and this
+# block owns the timeline.
+schema: hugoblox/author/v1
+slug: me-cv
+
+experience:
+  - role: 'Software Engineer Intern'
+    org: 'Upscale AI'
+    start: 2024-07-01
+    summary: ''
+
+education:
+  - degree: 'Bachelors Degree, Computer Science + Physics'
+    institution: 'UCLA'

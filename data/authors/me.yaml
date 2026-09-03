@@ -9,7 +9,7 @@ name:
 
 role: ''
 
-bio: ''
+bio: 'Hi'
 
 # Uncomment and fill in whichever of these you want on the page.
 # Any section left out simply won't render.
@@ -40,18 +40,9 @@ bio: ''
 # interests:
 #   - ''
 
-# education:
-#   - degree: ''
-#     institution: ''
-#     start: 2020-09-01
-#     end: 2024-06-30
-#     summary: ''
-
-# experience:
-#   - role: ''
-#     org: ''
-#     start: 2024-07-01
-#     summary: ''
+# education and experience now live in data/authors/me-cv.yaml,
+# rendered by the resume-experience block. Keeping education here too
+# would make it appear twice on the homepage.
 
 # skills:
 #   - name: Technical Skills
