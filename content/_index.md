@@ -26,6 +26,21 @@ sections:
         size: medium # Options: small, medium (default), large, xl, xxl
         shape: circle # Options: circle (default), square, rounded
   - block: portfolio
+    id: research
+    content:
+      title: Research
+      filters:
+        folders:
+          - research
+      buttons:
+        - name: All
+          tag: '*'
+      archive:
+        enable: false
+    design:
+      columns: 3
+      fallback_icon: beaker
+  - block: portfolio
     id: projects
     content:
       title: Projects

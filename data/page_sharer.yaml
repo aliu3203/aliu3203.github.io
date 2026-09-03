@@ -1,0 +1,16 @@
+# Hugo Blox
+# Contact links shown at the bottom of pages.
+# Overrides the theme's default share buttons (X, Facebook, Email, LinkedIn, WhatsApp).
+# Note: {url} / {title} placeholders are supported, but these are direct links, not share links.
+
+links:
+  - id: email
+    url: 'mailto:aliu3203@ucla.edu'
+    title: Email
+    icon: hero/at-symbol
+    enable: true
+  - id: linkedin
+    url: 'https://www.linkedin.com/in/andrew-liu-760187265'
+    title: LinkedIn
+    icon: brands/linkedin
+    enable: true
