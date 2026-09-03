@@ -16,15 +16,20 @@ sections:
       #   text: Download CV
       #   url: uploads/resume.pdf
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        about: 'About Me'
     design:
       name:
         size: md # Options: xs, sm, md, lg (default), xl
       avatar:
         size: medium # Options: small, medium (default), large, xl, xxl
         shape: circle # Options: circle (default), square, rounded
+  - block: resume-experience
+    id: experience
+    content:
+      username: me-cv
+    design:
+      is_education_first: false
+      date_format: 'Jan 2006'
   - block: portfolio
     id: research
     content:
