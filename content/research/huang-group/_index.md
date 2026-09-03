@@ -1,5 +1,5 @@
 ---
-title: 'Undergraduate Research Assistant'
+title: 'Experimental Nuclear Physics'
 org: 'Huang Group'
 start: 2026-02-01
 summary: ''

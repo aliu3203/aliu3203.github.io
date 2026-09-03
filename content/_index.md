@@ -11,11 +11,18 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
-      text: "I'm currently a Computer Science and Physics student at UCLA interested in making new things"
-      # Show a call-to-action button under your biography? (optional)
+      # `|` keeps the line breaks. A blank line starts a new paragraph;
+      # two spaces at the end of a line force a break inside one.
+      text: |
+        I'm a Computer Science and Physics undergraduate at UCLA.
+
+        
+      # The CV lives at `static/uploads/resume.pdf` and is linked from the
+      # main nav (config/_default/menus.yaml) instead of from a button here.
+      # Uncomment to also show a call-to-action button under the biography.
       # button:
       #   text: Download CV
-      #   url: uploads/resume.pdf
+      #   url: /uploads/resume.pdf
       headings:
         about: 'About Me'
     design:
@@ -56,4 +63,16 @@ sections:
       align: center
       columns: 1
       fallback_icon: code-bracket
+  - block: notes
+    id: notes
+    content:
+      title: Notes
+      section: notes
+      # Intro text lives in content/snippets/notes-intro.md
+      text_from: 'snippets/notes-intro'
+      # Teaser only - the full, grouped list lives at /notes/
+      count: 5
+      button:
+        text: 'All notes'
+        url: '/notes/'
 ---
