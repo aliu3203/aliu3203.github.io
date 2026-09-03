@@ -11,9 +11,13 @@ slug: me-cv
 experience:
   - role: 'Software Engineer Intern'
     org: 'Upscale AI'
-    start: 2024-07-01
-    summary: ''
+    start: 2026-06-15
+    summary: 'Integrated'
+  - role: 'Teaching Assistant'
+    org: 'Art of Proble'
+    start: 2026-06-15
+    summary: 'Integrated'
+  
 
-education:
-  - degree: 'Bachelors Degree, Computer Science + Physics'
-    institution: 'UCLA'
+
+

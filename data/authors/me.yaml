@@ -40,9 +40,9 @@ bio: 'Hi'
 # interests:
 #   - ''
 
-# education and experience now live in data/authors/me-cv.yaml,
-# rendered by the resume-experience block. Keeping education here too
-# would make it appear twice on the homepage.
+education:
+  - degree: 'Bachelors, Computer Science + Physics'
+    institution: 'UCLA'
 
 # skills:
 #   - name: Technical Skills

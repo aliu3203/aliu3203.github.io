@@ -1,0 +1,8 @@
+{{/* The resume-experience block hardcodes a blurred primary-colored halo
+     behind each timeline icon (bg-primary-500/30 ... blur-md). There is no
+     front-matter option for it, so it is suppressed here rather than by
+     forking the 400-line block template. Delete this file to bring it back. */}}
+<style>
+  .blur-md[class*="bg-primary-500/"],
+  .blur-md[class*="bg-secondary-500/"] { display: none; }
+</style>

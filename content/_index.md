@@ -30,21 +30,13 @@ sections:
     design:
       is_education_first: false
       date_format: 'Jan 2006'
-  - block: portfolio
+  - block: research-roles
     id: research
     content:
       title: Research
-      filters:
-        folders:
-          - research
-      buttons:
-        - name: All
-          tag: '*'
-      archive:
-        enable: false
-    design:
-      columns: 3
-      fallback_icon: beaker
+      section: research
+      # Intro text lives in content/snippets/research-intro.md
+      text_from: 'snippets/research-intro'
   - block: portfolio
     id: projects
     content:

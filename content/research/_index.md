@@ -3,17 +3,9 @@ title: Research
 type: landing
 
 sections:
-  - block: portfolio
-    id: research
+  - block: research-roles
     content:
       title: Research
-      filters:
-        folders:
-          - research
-      buttons:
-        - name: All
-          tag: '*'
-    design:
-      columns: 3
-      fallback_icon: beaker
+      section: research
+      text: 'hi'
 ---
