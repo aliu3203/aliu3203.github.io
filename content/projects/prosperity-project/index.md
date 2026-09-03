@@ -7,6 +7,10 @@ tech_stack:
  - Jupyter Notebooks
 status: 'WIP'
 
+links:
+  - type: github
+    url: https://github.com/aliu3203/prosperity4
+    label: Code
 ---
 
 We code:
