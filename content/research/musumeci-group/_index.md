@@ -13,3 +13,7 @@ sections:
       subtitle: 'Undergraduate Research Assistant · Mar 2026 – Present'
       section: 'research/musumeci-group'
 ---
+
+I run pulsed wire measurement on permanent magnetic quadrupoles (PMQs). I work on developing ways to align a copper wire to micron precision. 
+
+I've also worked on a classification project to distinguish between new acceleration techniques and standard acceleration papers on PRAB and high impact journals.

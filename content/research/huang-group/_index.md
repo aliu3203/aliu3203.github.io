@@ -14,4 +14,4 @@ sections:
       section: 'research/huang-group'
 ---
 
-Test
+We examine the Chiral Magnetic Effect (CME). My work involves computing observables via epos4.0.1 on Au-Au 200 GeV collisions.
