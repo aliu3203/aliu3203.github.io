@@ -1,0 +1,11 @@
+{{/* resume-biography-3 renders education cards in a 3-column grid nested
+     inside a md:col-span-8 column, leaving each card roughly a fifth of the
+     page width. No design option exists for it, so the grid is collapsed to a
+     single column here instead of forking the 526-line block.
+     Scoped to #about so research/portfolio grids are unaffected.
+     Delete this file to restore the 3-column default. */}}
+<style>
+  #about .grid.md\:grid-cols-2.xl\:grid-cols-3 {
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+</style>

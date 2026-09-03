@@ -41,8 +41,9 @@ bio: 'Hi'
 #   - ''
 
 education:
-  - degree: 'Bachelors, Computer Science + Physics'
+  - area: 'Bachelors, Computer Science + Physics'
     institution: 'UCLA'
+    year: 'Expected Graduation: 2028'
 
 # skills:
 #   - name: Technical Skills

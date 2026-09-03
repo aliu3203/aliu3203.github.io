@@ -7,10 +7,11 @@ type: landing
 
 sections:
   - block: resume-biography-3
+    id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
-      text: ''
+      text: "I'm currently a Computer Science and Physics student at UCLA interested in making new things"
       # Show a call-to-action button under your biography? (optional)
       # button:
       #   text: Download CV
