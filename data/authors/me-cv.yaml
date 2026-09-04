@@ -12,11 +12,16 @@ experience:
   - role: 'Software Engineer Intern'
     org: 'Upscale AI'
     start: 2026-06-15
-    summary: 'Integrated'
+    summary: |
+      I researched and evaluated different 
+      forms of GPU-accelerated Static Timing Analysis (STA) 
+      engines. I also helped 
+      integrate tool chains into our internal cloud
+      platform. 
   - role: 'Teaching Assistant'
     org: 'Art of Problem Solving'
     start: 2025-06-15
-    summary: 'Integrated'
+    summary: 'I primarily assisted with middle school contest math classes'
   
 
 

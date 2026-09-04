@@ -12,5 +12,3 @@ links:
     url: https://github.com/aliu3203/prosperity4
     label: Code
 ---
-
-We code:

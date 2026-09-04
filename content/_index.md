@@ -16,13 +16,11 @@ sections:
       text: |
         I'm a Computer Science and Physics undergraduate at UCLA.
 
-        
-      # The CV lives at `static/uploads/resume.pdf` and is linked from the
-      # main nav (config/_default/menus.yaml) instead of from a button here.
-      # Uncomment to also show a call-to-action button under the biography.
+        I'm really interested in working on low level projects, despite not having much experience in them. More recently over the summer, I've been working on full-stack development. 
+      # Show a call-to-action button under your biography? (optional)
       # button:
       #   text: Download CV
-      #   url: /uploads/resume.pdf
+      #   url: uploads/resume.pdf
       headings:
         about: 'About Me'
     design:

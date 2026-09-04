@@ -7,5 +7,5 @@ sections:
     content:
       title: Research
       section: research
-      text: 'hi'
+      text_from: 'snippets/research-intro'
 ---
