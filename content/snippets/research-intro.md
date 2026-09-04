@@ -8,4 +8,4 @@ build:
   list: never
 ---
 
-My interests span both Computer Science and Physics disciplines. I'm currently involved in Nuclear and Beam + Accelerator Physics. You can examine my work via the two buttons on the right.
+My interests span both Computer Science and Physics disciplines. I'm currently involved in Nuclear and Beam + Accelerator Physics. You can examine some of my work via the two buttons on the right.

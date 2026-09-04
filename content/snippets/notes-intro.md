@@ -8,4 +8,4 @@ build:
   list: never
 ---
 
-These are a collection of notes I've written for classes I've taken so far. They are by no means exhaustive and will contain typos.
+These are a collection of notes I've typed up for classes I've taken so far. They are by no means exhaustive and will contain typos. Some are expositions of my work.
