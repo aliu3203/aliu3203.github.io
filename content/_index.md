@@ -17,6 +17,10 @@ sections:
         I'm a Computer Science and Physics undergraduate at UCLA.
 
         I'm really interested in working on low level projects, despite not having much experience in them. More recently over the summer, I've been working on full-stack development. 
+
+        Beyond work, I love to fence and occasionally play minesweeper.
+
+        You can reach me at [aliu3203@ucla.edu](mailto:aliu3203@ucla.edu)
       # Show a call-to-action button under your biography? (optional)
       # button:
       #   text: Download CV
