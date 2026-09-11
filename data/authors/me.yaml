@@ -24,14 +24,18 @@ bio: ''
 #   - name: ''
 #     url: ''
 
-# links:
+links:
+  - icon: brands/github
+    url: https://github.com/aliu3203
+    label: GitHub
+
+# More link options, if you want them:
 #   - icon: at-symbol
-#     url: 'mailto:you@example.com'
+#     url: 'mailto:aliu3203@ucla.edu'
 #     label: E-mail Me
-#   - icon: brands/github
-#     url: https://github.com/aliu3203
 #   - icon: brands/linkedin
-#     url: ''
+#     url: https://www.linkedin.com/in/andrew-liu-760187265
+#     label: LinkedIn
 #   - icon: academicons/google-scholar
 #     url: ''
 #   - icon: academicons/orcid
