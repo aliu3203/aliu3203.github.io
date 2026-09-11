@@ -1,11 +1,11 @@
 ---
 title: 'epos-auau-analysis'
 date: 2026-09-03
-summary: 'Generating Au+Au collisions in EPOS and measuring flow observables, including the event shape selection method used to control CME background.'
+summary: 'Scripts for computing observables and the autonomous scheduler'
 links:
   - type: github
     url: https://github.com/aliu3203/epos-auau-analysis
-    label: Code
+    label: Github Repo
 ---
 
 EPOS is an event generator, which means I know the true reaction plane of every event it

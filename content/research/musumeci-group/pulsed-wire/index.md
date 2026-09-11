@@ -1,11 +1,11 @@
 ---
 title: 'Pulsed Wire'
 date: 2026-09-03
-summary: 'Measuring the field of permanent magnet quadrupoles with a pulsed wire, and the alignment work that has to happen first.'
+summary: 'Scripts to pull from oscilloscope and analysis'
 links:
   - type: github
     url: https://github.com/aliu3203/pulsedWire
-    label: Code
+    label: Github Repo
 ---
 
 To map the field of a permanent magnet quadrupole, we string a thin copper wire through it

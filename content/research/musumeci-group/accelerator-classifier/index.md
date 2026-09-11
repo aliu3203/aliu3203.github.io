@@ -1,11 +1,11 @@
 ---
 title: 'Accelerator Classifier'
 date: 2026-09-03
-summary: 'Scraping accelerator journals and high impact journals, then training a classifier to find papers on new acceleration techniques.'
+summary: 'Source code for the scraper + classifier'
 links:
   - type: github
     url: https://github.com/aliu3203/acceleratorClassifier
-    label: Code
+    label: Github Repo
 ---
 
 The question was how much work on new acceleration techniques is showing up outside the
