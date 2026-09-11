@@ -6,7 +6,7 @@ course_title: 'Math 115AH - Linear Algebra (Honors)'
 # shown on the card, so set that to the quarter.
 
 term: 'Spring 2026'
-summary: ''
+summary: 'One problem set. Characteristic polynomials, eigenvalues of triangular matrices, and the determinant as a sum over permutations.'
 pages: 5
 tags:
   - Math

@@ -6,7 +6,7 @@ course_title: 'Math 110BH - Abstract Algebra (Honors)'
 # shown on the card, so set that to the quarter.
 
 term: 'Winter 2026'
-summary: ''
+summary: 'Problem sets worked out of Dummit and Foote over the quarter.'
 pages: 40
 tags:
   - Math

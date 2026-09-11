@@ -6,7 +6,7 @@ course_title: 'PHYSICS 150 — Physics of Beams and Accelerators'
 # shown on the card, so set that to the quarter.
 
 term: 'Spring 2026'
-summary: ''
+summary: 'Notes I typed up during the quarter. Incomplete, and it stops partway through.'
 pages: 24
 tags:
   - Physics
